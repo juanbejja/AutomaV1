@@ -1,0 +1,30 @@
+{
+	"tc1": [
+		{
+			"dni": "4837945",
+			"clave": "4512",
+			"usuario": "homo4512",
+			"browser": "chrome"
+		}
+	],
+	"tc2": [
+		{
+			"dni": "22330043",
+			"clave": "4512",
+			"usuario": "homo4512",
+			"browser": "chrome"
+		},
+		{
+			"dni": "66666",
+			"clave": "4512",
+			"usuario": "homo4512",
+			"browser": "firefox"
+		},
+		{
+			"dni": "999999",
+			"clave": "4512",
+			"usuario": "homo4512",
+			"browser": "chrome"
+		}
+	]
+}
